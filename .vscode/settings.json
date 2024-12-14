@@ -49,6 +49,18 @@
         "cstring": "cpp",
         "ctime": "cpp",
         "map": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "strstream": "cpp",
+        "complex": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "optional": "cpp",
+        "iomanip": "cpp",
+        "cfenv": "cpp",
+        "cinttypes": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp",
+        "queue": "cpp"
     }
 }
